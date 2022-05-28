@@ -1,0 +1,13 @@
+C:\Users\Dan\Desktop\C#\Components\bin\Debug\netcoreapp1.1\Components.deps.json
+C:\Users\Dan\Desktop\C#\Components\bin\Debug\netcoreapp1.1\Components.runtimeconfig.json
+C:\Users\Dan\Desktop\C#\Components\bin\Debug\netcoreapp1.1\Components.runtimeconfig.dev.json
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.AssemblyInfo.cs
+C:\Users\Dan\Desktop\C#\Components\bin\Debug\netcoreapp1.1\Components.dll
+C:\Users\Dan\Desktop\C#\Components\bin\Debug\netcoreapp1.1\Components.pdb
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.dll
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.pdb
+C:\Users\Dan\Desktop\C#\Components\obj\Debug\netcoreapp1.1\Components.genruntimeconfig.cache
